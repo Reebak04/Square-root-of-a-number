@@ -24,7 +24,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![sqrt of two number](sqrt.png)
 
 
 ## Result:
